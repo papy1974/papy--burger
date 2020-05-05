@@ -1,0 +1,26 @@
+{
+  "name": "papy-lontomba-burger",
+  "version": "1.0.0",
+  "description": "\"a burger app that allow user to devour order\"",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papy1974/papy-Lontomba-burger.git"
+  },
+  "author": "papy lontomba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papy1974/papy-Lontomba-burger/issues"
+  },
+  "homepage": "https://github.com/papy1974/papy-Lontomba-burger#readme"
+}
