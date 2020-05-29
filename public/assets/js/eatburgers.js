@@ -19,7 +19,7 @@ $(function() {
       });
     });
   
-    // when submit button hit, add a new burger to the db & webpage
+    // when submit button hit, add a new burger to the db & webpage by using on submit event.
     $(".new-burger-form").on("submit", function(event) {
       // Make sure to preventDefault on a submit event.
       event.preventDefault();
