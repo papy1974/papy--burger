@@ -9,7 +9,7 @@ $(function() {
         devoured: true
       };
   
-      // Send the PUT request by id
+      // Send the PUT request by id by using ajax.
       $.ajax("/api/burgers/" + id, {
         type: "PUT",
         data: devouredTrue
