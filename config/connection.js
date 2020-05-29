@@ -1,7 +1,7 @@
 // Connect NODE to MySQL
 var mysql = require("mysql");
 
-// Set up the connection
+// Set up the connection with mysql
 if (process.env.JAWSDB_URL){
 connection = mysql.createConnection(process.env.JAWSDB_URL)
 }else{
