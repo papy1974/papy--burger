@@ -1,4 +1,4 @@
-// Get my SQL connection.
+// Get my SQL connection trough config/connection
 const connection = require("../config/connection.js");
 
 // methods to query SQL db
