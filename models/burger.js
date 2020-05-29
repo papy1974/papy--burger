@@ -33,5 +33,5 @@ const dbqueries = {
 
 };
 
-// make available to other modules
+// make available to other modules and export dbqueries.
 module.exports = dbqueries;
