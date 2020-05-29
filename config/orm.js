@@ -40,5 +40,5 @@ const orm = {
   }
 };
 
-// Make these available to other modules.
+// Make these available to other modules(export the module.)
 module.exports = orm;
