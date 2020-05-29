@@ -1,4 +1,4 @@
-// get my model for the SQL queries
+// get my model for the SQL queries trough models/burger.js
 const dbqueries = require("../models/burger.js");
 
 // get express & router to create routes
