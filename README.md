@@ -58,6 +58,7 @@ The following step need to be completed to run the app.
 Usage
 
 click on the following link to see the app in action :https://sleepy-plains-11022.herokuapp.com/
+![burger](https://user-images.githubusercontent.com/58053159/84224104-a99c2900-aaa9-11ea-9d51-5230822270fa.png)
 License This project is licensed under the MIT - Copyright (c) [2020] [PAPY LONTOMBA]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
