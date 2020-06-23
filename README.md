@@ -1,7 +1,5 @@
 Title
 
-Node Express Handlebars:Eat-Da-Burge
-
 Installation
 
 description
@@ -21,6 +19,17 @@ Author
 contributing
 
 Tests
+
+
+Title
+
+Node Express Handlebars:Eat-Da-Burge
+
+
+Languages and Tools used:
+
+Express, JavaScript, NPM packages, HTML, CSS, Git
+
 
 Installation
 
