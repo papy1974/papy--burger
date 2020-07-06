@@ -1,4 +1,3 @@
-
 # Title.
 
 Eat-Da-Burge
@@ -10,7 +9,8 @@ Express, JavaScript, NPM packages, HTML, CSS, Git
 
 # Objective and Description
 
-Eat-Da-Burger is a restaurant app that lets users input the names of burgers they'd like to eat.
+Eat-Da-Burger is a 
+restaurant app that lets users input the names of burgers they'd like to eat.
 
 Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.
 
@@ -18,28 +18,28 @@ Whenever a user submits a burger's name, the app will display the burger on the 
 
 * The app will store every burger in a database, whether devoured or not.
 
-click on the following link to see the app in action :https://sleepy-plains-11022.herokuapp.com/
+Click on the following link to see the app in action:https://sleepy-plains-11022.herokuapp.com/
 ![burger](https://user-images.githubusercontent.com/58053159/84224104-a99c2900-aaa9-11ea-9d51-5230822270fa.png)
 
 
 
 # Installation.
 
-To run the project, user have to install mysql, express, and express-handlebars
+To run the project, user have to install MySQL, express, and express-handlebars
 
 
 # Example Usage 
 
-The following step need to be completed to run the app.
+The following step needs to be completed to run the app.
 
 
-1.Run the `schema.sql` and `seeds.sql` files into the mysql server from the command line by typing  `mysql -u root -p`to create database
+1. Run the `schema.sql` and `seeds.sql` files into the MySQL server from the command line by typing  `MySQL -u root -to create a database
 
 1. Install the Express npm package: `npm install express`.
 
 3. Install the Handlebars npm package: `npm install express-handlebars`.
 
-4 Install MySQL npm package: `npm install mysql`.
+4 Install MySQL npm package: `npm install MySQL`.
 
 5. Require the following npm packages inside of the server.js file:
    * express
@@ -69,7 +69,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Badges (https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-Author papy Lontomba
+Author pay Lontomba
 
 Email: papylotomba@yahoo.fr
 
